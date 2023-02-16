@@ -1,0 +1,25 @@
+html {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#03131a, #19444f);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+
+#div-main {
+    background-color: #03131a;
+    margin: 15vh 20%;
+    padding: 100px;
+    border-radius: 20px;
+}
+
+#title-descrpt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} 
